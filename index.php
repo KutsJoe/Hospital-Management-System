@@ -18,6 +18,7 @@ elseif (!empty($_SESSION['bursar'])&&!empty($_SESSION['type'])) {
 ?>
 
 <!DOCTYPE html>
+<!-- Our first comment -->
 <html>
 <head>
 	<title>Hospital Management System - Login</title>
